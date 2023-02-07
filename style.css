@@ -1,0 +1,47 @@
+body {
+    width: 800px; 
+    margin: 0 auto;
+}
+img {
+    width: 100%;
+}
+
+p,a {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    color: brown;
+}
+
+#intro {
+    width: 400px;
+    float: left;
+}
+
+#topnav {
+    float: right;
+}
+
+#table {
+    background-color: rgb(213, 221, 221);
+    border: 2px solid rgb(101, 101, 101);
+    margin: 10px 15px 20px;
+    padding: 10px 10px;
+}
+
+#topnav a {
+color: rgb(41, 39, 37);
+text-align: center;
+padding: 16px 16px;
+font-size: 17px ;
+float: left;
+}
+
+#topnav a:hover {
+    background-color: rgb(63, 60, 56);
+    color: white;
+}
+
+
